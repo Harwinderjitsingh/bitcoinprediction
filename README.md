@@ -17,7 +17,7 @@ A comparative analysis of machine learning models for predicting Bitcoin prices 
 - ![NumPy](https://img.shields.io/badge/Calculations-NumPy-green?logo=numpy) - Statistical operations
 
 ### 🤖 Machine Learning
-- ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikitlearn) - Linear Regression, Random Forest
+- ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikitlearn) - Linear Regression, Random Forest and Xboost
 - ![XGBoost](https://img.shields.io/badge/Boosted-XGBoost-green?logo=xgboost) - Champion model
 - ![Monte Carlo](https://img.shields.io/badge/Risk-Monte_Carlo-lightgrey) - Uncertainty simulation
 
